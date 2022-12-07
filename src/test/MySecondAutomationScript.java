@@ -42,6 +42,8 @@ public class MySecondAutomationScript {
 	     }
 	     
 //	     System.out.println(driver.findElement(By.cssSelector(null)));
+
+System.out.println(driver.findElement("Thank You");
 	     
 		//driver.close();
 		
